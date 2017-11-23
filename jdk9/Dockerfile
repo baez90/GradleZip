@@ -1,4 +1,4 @@
-FROM gradle:4.3.0-jdk9
+FROM gradle:4.3.1-jdk9
 
 LABEL maintainer="peter.kurfer@stud.fh-rosenheim.de"
 USER root
